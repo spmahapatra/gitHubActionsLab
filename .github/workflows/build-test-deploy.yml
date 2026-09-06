@@ -34,7 +34,7 @@ jobs:
     needs: test
 
     permissions: 
-       contents: : write
+       contents: write
        pages: write
        id-token: write
 
